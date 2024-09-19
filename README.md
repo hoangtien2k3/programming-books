@@ -1,5 +1,3 @@
-![programming-books](https://socialify.git.ci/hoangtien2k3/programming-books/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fi.ibb.co%2FN366vtQ%2Fhoangtien2k3.png&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
-
 <p align="center">
   <img style="height: 60px;" src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=400&duration=3500&pause=2000&color=21C8B8&center=true&vCenter=true&random=false&width=200&lines=S%C3%A1ch+L%E1%BA%ADp+Tr%C3%ACnh" alt="hello-algo-typing-svg" />
   </br>
