@@ -7,4 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 .idea
+# Ignore all .DS_Store files
 .DS_Store
